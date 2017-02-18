@@ -1,0 +1,4 @@
+.smash
+server
+# should that be ignored?
+vendor/ 
